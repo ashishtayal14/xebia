@@ -2,7 +2,7 @@
 
 Node.js based restful api server for Angular, React workshops
 
-# install
+# STEP 1
 
   > cd API
   
@@ -15,7 +15,7 @@ Node.js based restful api server for Angular, React workshops
 
 React based client side application
 
-# install
+# STEP 2
 
   > cd APP
   
