@@ -1,6 +1,6 @@
 #-------------------------------------------------------API--------------------------------------------------------
 
-Node.js based restful api server for Angular, React workshops
+Node.js based restful api server
 
 # STEP 1
 
